@@ -23,8 +23,8 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "@astrojs/starlight": "^0.30.3",
-    "astro": "^5.1.1",
+    "@astrojs/starlight": "^0.42.7",
+    "astro": "^7.4.2",
     "sharp": "^0.33.4",
     "shiki": "^1.10.3"
   },
